@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 أهلاً بك! أنا أحمد الغامدي (Ahmed Alghamdi)
 
-<!--
-**abinsgh/abinsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**خريج حديث | مطور برمجيات | مهتم بالحلول التقنية والأنظمة الذكية**
 
-Here are some ideas to get you started:
+أنا مطور شغوف بتحويل الأفكار المعقدة إلى تطبيقات تفاعلية وحلول برمجية متكاملة. أتميز بالجمع بين التفكير التحليلي الهندسي والإبداع في تطوير الواجهات وتجربة المستخدم. أبحث دائماً عن التحديات التقنية التي تدفعني لتعلم مهارات جديدة وابتكار منتجات ذات قيمة حقيقية.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 ما أعمل عليه حالياً:
+* 💻 تطوير تطبيقات ويب تفاعلية وتجارب مستخدم (UI/UX) متطورة ومزامنة لحظية للبيانات.
+* ⚙️ استكشاف وتطوير أنظمة تحسين الأداء (Optimization Systems) ودمج نماذج الذكاء الاصطناعي في التطبيقات العملية.
+* 💡 بناء أدوات وأتمتة لتسهيل العمليات وإدارة البيانات.
+
+### 🛠️ التقنيات والأدوات التي أستخدمها:
+* **تطوير الويب:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+* **قواعد البيانات والخدمات السحابية:** Firebase (Firestore, Hosting, Realtime Database)
+* **البرمجة والخوارزميات:** Python, MATLAB, C++ (أو أي لغات تفضل إضافتها)
+* **أدوات ومنصات إضافية:** Git & GitHub, AppSheet, Prompt Engineering & Local AI Models
+
+### 📫 تواصل معي:
+* **LinkedIn:** [ضع رابط حسابك هنا]
+* **Email:** [ضع إيميلك الرسمي هنا]
+
+---
+*"Good code is its own best documentation."* 💻

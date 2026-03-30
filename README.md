@@ -1,23 +1,66 @@
-# 👋 أهلاً بك! أنا أحمد الغامدي (Ahmed Alghamdi)
+<div align="center">
+  <h1 align="center">Ahmed Alghamdi</h1>
+  <h3 align="center">Software Engineer | AI & Systems Optimization | Web Developer</h3>
+</div>
 
-**خريج حديث | مطور برمجيات | مهتم بالحلول التقنية والأنظمة الذكية**
+<p align="center">
+  A multidisciplinary engineer bridging the gap between complex analytical systems and interactive software solutions. Specialized in building AI-driven optimization algorithms, real-time web applications, and automated operational workflows.
+</p>
 
-أنا مطور شغوف بتحويل الأفكار المعقدة إلى تطبيقات تفاعلية وحلول برمجية متكاملة. أتميز بالجمع بين التفكير التحليلي الهندسي والإبداع في تطوير الواجهات وتجربة المستخدم. أبحث دائماً عن التحديات التقنية التي تدفعني لتعلم مهارات جديدة وابتكار منتجات ذات قيمة حقيقية.
+<div align="center">
 
-### 🚀 ما أعمل عليه حالياً:
-* 💻 تطوير تطبيقات ويب تفاعلية وتجارب مستخدم (UI/UX) متطورة ومزامنة لحظية للبيانات.
-* ⚙️ استكشاف وتطوير أنظمة تحسين الأداء (Optimization Systems) ودمج نماذج الذكاء الاصطناعي في التطبيقات العملية.
-* 💡 بناء أدوات وأتمتة لتسهيل العمليات وإدارة البيانات.
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-### 🛠️ التقنيات والأدوات التي أستخدمها:
-* **تطوير الويب:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
-* **قواعد البيانات والخدمات السحابية:** Firebase (Firestore, Hosting, Realtime Database)
-* **البرمجة والخوارزميات:** Python, MATLAB, C++ (أو أي لغات تفضل إضافتها)
-* **أدوات ومنصات إضافية:** Git & GitHub, AppSheet, Prompt Engineering & Local AI Models
-
-### 📫 تواصل معي:
-* **LinkedIn:** [ضع رابط حسابك هنا]
-* **Email:** [ضع إيميلك الرسمي هنا]
+</div>
 
 ---
-*"Good code is its own best documentation."* 💻
+
+## 🛠️ Technical Arsenal | المهارات التقنية
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppSheet-00A45B?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+---
+
+## 📂 Featured Architecture & Projects | أبرز المشاريع
+
+| Project | Description | Stack & Technologies |
+| :--- | :--- | :--- |
+| **AI-Driven Optimization Dashboard** | Developed a "Smart Dashboard" for Pressurized Water Reactors (PWR), utilizing Genetic Algorithms to manage seasonal optimization and complex variables (e.g., Xenon-135 management). | `Python`, `MATLAB`, `Local AI Models` |
+| **Real-Time Interactive Web Games** | Engineered multiplayer logic games (e.g., *Hex Letters*, *Huroof wa Aloof* clone) featuring custom algorithmic grid generation, AI logic integration, and real-time state synchronization across multiple devices. | `JavaScript`, `Firebase (Realtime/Firestore)`, `Tailwind CSS` |
+| **Automated Kiosk Systems** | Designed and integrated a complete software-hardware photo booth system from scratch. Features include automated image processing onto custom templates (vintage newspapers, wanted posters) and payment gateway integration. | `Hardware Integration`, `Scripting`, `UI/UX` |
+| **Business & Tracking Automations** | Built scalable progress-tracking applications and operational workflows utilizing AppSheet and Google Sheets automation to transform raw data into actionable dashboards. | `AppSheet`, `Google Apps Script` |
+| **Game Engine Prototypes** | Conceptualized and prototyped interactive experiences, including digital logic translation for physical board games (Crime Investigation mechanics) using industry-standard game engines. | `Unreal Engine`, `System Design` |
+
+---
+
+<div align="right" dir="rtl">
+
+## 🌐 نبذة تعريفية (Arabic Profile)
+
+**أحمد الغامدي | مهندس برمجيات ونظم**
+
+مهندس متعدد التخصصات، أمتلك قدرة عالية على ترجمة الأنظمة المعقدة إلى حلول برمجية قابلة للتطوير. بفضل خلفيتي الهندسية، أركز على بناء بنى تحتية برمجية متينة، بدءاً من خوارزميات التحسين المدعومة بالذكاء الاصطناعي، مروراً بتطبيقات الويب التفاعلية اللحظية، وصولاً إلى أتمتة الأعمال والأنظمة المدمجة.
+
+### 📌 مجالات التركيز والخبرة:
+- **تحسين الأنظمة (Systems Optimization):** تصميم وبناء لوحات تحكم ذكية (Smart Dashboards) تعتمد على الخوارزميات الجينية لمعالجة المتغيرات المعقدة.
+- **تطوير الويب التفاعلي (Interactive Web Dev):** برمجة تطبيقات وألعاب ويب جماعية تعتمد على التزامن اللحظي للبيانات (Real-time Synchronization) وإدارة حالات المستخدمين المعقدة.
+- **أتمتة الأعمال ودمج النماذج (Business Automation & AI):** تطوير تطبيقات إدارية باستخدام AppSheet وبناء سكريبتات لأتمتة العمليات، مع دمج نماذج الذكاء الاصطناعي المحلية لتحسين الإنتاجية (GEO).
+- **الأنظمة المدمجة (Integrated Systems):** بناء وبرمجة أنظمة متكاملة تجمع بين العتاد والبرمجيات (مثل أجهزة الأكشاك التفاعلية المربوطة بأنظمة دفع وطباعة آلية).
+
+*أؤمن بأن الكود الممتاز ليس مجرد أسطر برمجية، بل هو حل هندسي لمشكلة معقدة.*
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedAlghamdi&color=0076A8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>

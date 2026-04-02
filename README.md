@@ -6,16 +6,22 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br><br>
-
-  <h1>Ahmed Alghamdi</h1>
-  <h3>Nuclear Engineer | Software Developer</h3>
-  <p>Bridging complex analytical physics with interactive software solutions.</p>
-  <br>
-
-  <a href="https://www.linkedin.com/in/asghmadi/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abinsaglhamdi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
+
+```json
+{
+  "developer": "Ahmed Alghamdi",
+  "base_class": "Nuclear Engineer",
+  "sub_classes": [
+    "Software Developer",
+    "Game Developer",
+    "Automation Architect"
+  ],
+  "current_focus": "AI Systems Optimization",
+  "mission": "Translating complex reactor physics and business logic into executable code.",
+  "status": "Building scalable solutions...",
+  "contact": {
+    "LinkedIn": "[linkedin.com/in/asghmadi](https://linkedin.com/in/asghmadi)",
+    "Email": "abinsaglhamdi@gmail.com"
+  }
+}
